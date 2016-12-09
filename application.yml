@@ -9,4 +9,7 @@ management:
 logging:
   level:
     io:
-      pivotal: DEBUG  
+      pivotal: DEBUG
+
+ribbon: # <---NEW SECTION
+IsSecure: false
